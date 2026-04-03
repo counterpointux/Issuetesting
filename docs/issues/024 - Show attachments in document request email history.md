@@ -4,7 +4,7 @@ status: Open
 priority: Medium
 type: Feature
 area: Email History
-assigned: Unassigned
+assigned: Tiffany
 created: 2026-04-03
 ---
 
