@@ -1,6 +1,6 @@
 ---
 title: Test issue - safe to delete
-status: Open
+status: Resolved
 priority: Low
 type: Improvement
 area: Issues Panel
