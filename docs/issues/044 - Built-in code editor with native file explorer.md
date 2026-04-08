@@ -1,6 +1,6 @@
 ---
 title: Built-in code editor with native file explorer
-status: Open
+status: Resolved
 priority: Medium
 type: Feature
 area: Code Editor
@@ -22,7 +22,6 @@ Add an integrated code editor to Orchestrator using CodeMirror or Monaco Editor,
 
 - Native file explorer panel (tree view) showing the current project's working directory
 - Expand/collapse directories, click to open files in editor tabs
-- Respect common ignore patterns (.gitignore, node_modules, target/, .git/)
 - Context menu or icons for basic file operations (new file, new folder, rename, delete)
 - File explorer can live in the sidebar or as a toggleable panel
 
