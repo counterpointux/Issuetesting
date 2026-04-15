@@ -1,11 +1,11 @@
 ---
-title: Add search functionality to the issues panel
-status: Resolved
+title: UX consistency audit and implementation
+status: Open
 priority: Medium
-type: Feature
-area: Issues Panel
-assigned: Unassigned
-created: 2026-03-25
+type: Improvement
+area: Global UI
+assigned: Tim
+created: 2026-03-16
 ---
 
-Add a search bar to the issues panel that lets users filter issues by keyword. Should search across issue titles and descriptions to quickly find relevant issues.
+Review ux-consistency-audit.md and implement UX consistency improvements where necessary across the portal. Audit covers inconsistencies in styling, component usage, spacing, and interaction patterns that need to be aligned.

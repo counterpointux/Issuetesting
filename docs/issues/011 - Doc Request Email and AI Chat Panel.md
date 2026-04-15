@@ -1,15 +1,11 @@
 ---
-title: Doc Request Email and AI Chat Panel
-status: In Progress
-priority: Medium
-type: Design
-area: Doc Request
-assigned: Meher
-created: 2026-04-01
+title: Switching issue provider from GitHub to built-in does not persist
+status: Resolved
+priority: High
+type: Bug
+area: Issues Panel
+assigned: Unassigned
+created: 2026-03-25
 ---
 
-*Added by Meher on 2/12/26 (Original #25)*
-
-Send doc request email, fix AI chat panel and manage email settings modal.
-
-**Note:** Still need to finish up UI design as of 2/19.
+When switching the issue provider from GitHub to built-in on a project configured with GitHub issues, the change does not register. The issues panel always reverts back to the GitHub provider, making it impossible to switch to the built-in experience. Need to add some more context.
