@@ -1,6 +1,6 @@
 ---
 title: Split Disable Conditions from Clear Docs
-status: In Progress
+status: Open
 priority: Medium
 type: Design
 area: Split Documents
